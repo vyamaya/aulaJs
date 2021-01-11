@@ -4,3 +4,4 @@
 
 - Rest e Spread Operators
 
+- Destructuring Assignment
